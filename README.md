@@ -11,4 +11,4 @@ This repository contains design, configuration, verification and troubleshooting
 > 🚧 Work In Progress
 # Network Topology
 
-![Topology](TOPO SDWAN LAB.png)
+![Topology](topology.png)
