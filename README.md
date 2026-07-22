@@ -9,3 +9,6 @@ Enterprise SD-WAN Multi-Hub Lab using FortiGate.
 This repository contains design, configuration, verification and troubleshooting documentation.
 
 > 🚧 Work In Progress
+# Network Topology
+
+![Topology](TOPO SDWAN LAB.png)
